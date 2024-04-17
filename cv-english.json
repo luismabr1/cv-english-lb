@@ -75,7 +75,7 @@
   "education": [{
     "institution": "Instituto de Mercadotecnia ISUM",
     "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Tecnico Superior Universitario en Informatica",
+    "area": "Higher Technician in Computer Science",
     "studyType": "Bachelor",
     "startDate": "2017-01-01",
     "endDate": "2019-01-01",
@@ -85,7 +85,7 @@
     ]
   }],
   "certificates": [{
-    "name": "Diplomado en Programacion Web y Base de Datos",
+    "name": "Diploma in Web Programming and Databases",
     "date": "2018-11-07",
     "issuer": "Instituto de Nuevas Tecnologias UNEWEB",
     "url": "https://uneweb.edu.ve/"
