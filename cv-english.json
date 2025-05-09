@@ -240,14 +240,14 @@
       "url": "https://tienda-retail-small.vercel.app/"
     },
     {
-      "name": "Lector de QR",
+      "name": "Creador de QR",
       "isActive": true,
-      "description": "Lector de qr movil para validar inventario",
+      "description": "Manejador de qr para la generacion de codigos QR dinamicos",
       "highlights": [
         "Funcional con ssl",
         "Base de datos en MySQL"
       ],
-      "url": "https://modo-qr-page-e9t9rf93i-luismabr.vercel.app"
+      "url": "https://qrmanager.vercel.app/"
     }
    
   ]
