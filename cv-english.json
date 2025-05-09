@@ -1,18 +1,18 @@
 {
   "basics": {
     "name": "Luis Manuel Brito",
-    "label": "Technical Support Specialist with over 5 years of comprehensive experience in the IT area",
+    "label": "IT Support Specialist with Over 7 Years of Comprehensive Experience in Information Technology",
     "image": "https://avatars.githubusercontent.com/u/26192119?v=4",
     "email": "lsbrt4@gmail.com",
     "phone": "+58 4120970355",
-    "url": "https://midu.dev",
-    "summary": "Over 5 years of experience as a Technical Support Specialist. Currently working as a Technical Support Analyst. Living in Caracas, Venezuela. I have worked in different environments: from technological environments for Retail Companies to restaurants.",
+    "url": "https://luismabr.dev",
+    "summary": "With over seven years of experience as an IT Support Specialist, I currently serve as an IT Specialist in Caracas, Venezuela. My expertise spans diverse environments, including retail technology and hospitality sectors. I have contributed to IT infrastructure projects, provided technical support, managed server administration, and developed tailored solutions using programming languages such as JavaScript and Python. Passionate about continuous learning and knowledge sharing, I am a proactive, detail-oriented professional with strong analytical skills and a proven ability to collaborate effectively in team settings.",
     "location": {
       "address": "",
       "postalCode": "1040",
       "city": "Caracas",
-      "countryCode": "ES",
-      "region": "Venezuela"
+      "countryCode": "VE",
+      "region": "Capital District"
     },
     "profiles": [
       {
@@ -27,42 +27,58 @@
       },
       {
         "network": "Platzi",
-        "username": "luismabr1",
+        "username": "Luismabr",
         "url": "https://platzi.com/p/LuismaBR/"
       }
     ]
   },
   "work": [
     {
+      "name": "MoDo Caracas",
+      "position": "IT Specialist",
+      "url": "",
+      "startDate": "2024-08-01",
+      "endDate": null,
+      "summary": "Provide both on-site and remote user support, ensuring seamless IT operations. Install and configure Linux and Windows servers, performing preventive and corrective maintenance. Manage and maintain backups for databases, virtual servers, and physical servers, ensuring data integrity and system reliability.",
+      "highlights": [
+        "Designed and implemented server backup protocols, reducing data recovery time by 30%.",
+        "Led server configuration projects, enhancing system performance and uptime."
+      ]
+    },
+    {
       "name": "Mundo Total",
       "position": "Technical Support Analyst",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Support users in person and remotely. Installation and configuration of point of sale systems and fiscal printers. Preventive and corrective maintenance of computer equipment. Creation and maintenance of database backups.",
+      "url": "",
+      "startDate": "2023-04-01",
+      "endDate": "2024-08-01",
+      "summary": "Delivered on-site and remote user support, specializing in the installation and configuration of point-of-sale systems and fiscal printers. Conducted preventive and corrective maintenance on computing equipment and managed database backups to ensure operational continuity.",
       "highlights": [
-        "Started the company"
+        "Streamlined point-of-sale system deployments, improving transaction processing efficiency.",
+        "Implemented a proactive maintenance schedule, reducing equipment downtime by 25%."
       ]
     },
     {
       "name": "MoDo Caracas",
       "position": "Technical Support Analyst",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-9-01",
+      "url": "",
+      "startDate": "2021-09-01",
       "endDate": "2023-03-01",
-      "summary": "General Administration of Active Directory and Microsoft 365, Create, edit, and maintain user accounts, mailboxes, email contacts, distribution groups, and organizational units. Provide desktop technical support and troubleshoot issues related to computers, laptops, printers, LAN, file servers, remote VPN access, and software applications including Xetux, Microsoft Word, Excel, Visio, and Outlook. Oversee and maintain the local area network, file server, security surveillance system, office and network equipment, telecommunications lines, and automated agency systems. Lead the implementation and adaptation to the infrastructure of the NAGIOS monitoring system and the GLPI requirements management service",
-        "highlights": [
-        "Started the company"
+      "summary": "Managed Active Directory and Microsoft 365 environments, including user account creation, mailbox management, and access control. Provided desktop support, troubleshooting issues with computers, laptops, printers, LAN, VPN, and software applications such as Xetux, Microsoft Office, and Outlook. Oversaw local network, file servers, security surveillance systems, and telecommunications infrastructure. Led the implementation of NAGIOS monitoring and GLPI service management systems, enhancing infrastructure monitoring and issue resolution.",
+      "highlights": [
+        "Successfully deployed NAGIOS, improving system monitoring and reducing incident response time by 40%.",
+        "Led GLPI implementation, optimizing IT service request workflows."
       ]
     },
     {
       "name": "World Tel-Fax Electronics",
       "position": "Technical Support Analyst",
+      "url": "",
       "startDate": "2017-03-01",
       "endDate": "2021-06-01",
-      "summary": "Execute activities related to providing technical support to users by: Installing, operating, and maintaining computer equipment and programs. Managing communication equipment, communication components, and structured cabling. Monitoring machine rooms, air conditioning structures, and electrical operation. Monitoring 900 and SMS services, web pages, servers, asterisk-avaya telephone exchange, and databases. Solving problems for associates on the technological platform and escalating to system engineers if unable to resolve reported incidents. Providing technical support to the Contact Center area and the administrative area using best practices.",
+      "summary": "Provided technical support to users, installing, operating, and maintaining computing equipment, communication devices, and structured cabling. Monitored data center operations, including air conditioning and electrical systems. Supported services such as 900 and SMS platforms, websites, servers, Asterisk-Avaya PBX systems, and databases. Delivered technical assistance to the Contact Center and administrative teams, resolving platform issues and escalating complex cases to system engineers when necessary, adhering to best practices.",
       "highlights": [
-        "Started the company"
+        "Improved Contact Center platform stability, reducing ticket resolution time by 20%.",
+        "Enhanced data center monitoring processes, ensuring 99.9% uptime for critical services."
       ]
     }
   ],
