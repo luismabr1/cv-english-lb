@@ -56,21 +56,22 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ")
                 )
             }
 
-                {
-                    profiles.map(({network, url, username}) => {
+                {profiles
+                .filter(({ url }) => typeof url === "string" && url.length > 0)
+                .map(({ network, url, username }) => {
                     const Icon = SOCIAL_ICONS[network]
-                    if (!Icon) return null // Si no hay ícono, no renderiza nada
+                    if (!Icon) return null
                     return (
-                        <a 
-                            href={url} // Corrige el href vacío
-                            title={`Visitar el perfil de ${name} en ${network}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            >
-                        <Icon /> 
-                        </a>
+                    <a
+                        href={url}
+                        title={`Visitar el perfil de ${name} en ${network}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <Icon />
+                    </a>
                     )
-                    })
+                })
                 }
             </footer>
         </div>
