@@ -3,8 +3,6 @@
     "name": "Luis Manuel Brito",
     "label": "IT Support Specialist with Over 7 Years of Comprehensive Experience in Information Technology",
     "image": "https://avatars.githubusercontent.com/u/26192119?v=4",
-    "email": "lsbrt4@gmail.com",
-    "phone": "+58 4120970355",
     "url": "https://luismabr.dev",
     "summary": "With over seven years of experience as an IT Support Specialist, I currently serve as an IT Specialist in Caracas, Venezuela. My expertise spans diverse environments, including retail technology and hospitality sectors. I have contributed to IT infrastructure projects, provided technical support, managed server administration, and developed tailored solutions using programming languages such as JavaScript and Python. Passionate about continuous learning and knowledge sharing, I am a proactive, detail-oriented professional with strong analytical skills and a proven ability to collaborate effectively in team settings.",
     "location": {
@@ -46,7 +44,7 @@
       ]
     },
     {
-      "name": "Mundo Total",
+      "name": "Mundo Total C.A.",
       "position": "Technical Support Analyst",
       "url": "",
       "startDate": "2023-04-01",
@@ -231,15 +229,15 @@
       "url": "https://landing-links-simple-p2auoide0-luismabr.vercel.app"
     },
     {
-      "name": "Agendador de Citas",
+      "name": "Retail Shop",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Tienda de retail para la venta de productos",
       "highlights": [
         "Agendacion mediante calendario",
         "Login y redireccion a Creacion",
         "Uso de No-SQL"
       ],
-      "url": "https://spa-manager.vercel.app/"
+      "url": "https://tienda-retail-small.vercel.app/"
     },
     {
       "name": "Lector de QR",
